@@ -3,12 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "author": "fahamk14",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "fahamkhan0908@gmail.com"
-  },
   "dependencies": {
     "express": "^4.17.1",
     "noflo": "^1.1.3",
