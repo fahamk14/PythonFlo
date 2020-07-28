@@ -1,0 +1,15 @@
+{
+  "id": "7b129e0b-44bd-43db-8a67-d0d3b5dc3e2c",
+  "label": "demo_app NoFlo runtime",
+  "secret": "somonoxixe",
+  "permissions": {
+    "somonoxixe": [
+      "protocol:component",
+      "protocol:runtime",
+      "protocol:graph",
+      "protocol:network",
+      "component:getsource",
+      "component:setsource"
+    ]
+  }
+}
